@@ -31,4 +31,9 @@ UDICON is in development. Our pilot work uses **synthetic data only**. We will n
 patient data until our registration with the Office of the Data Protection Commissioner and our
 security checks are complete.
 
+### Team
+
+- **Marion Wambura**: Founder and CEO
+- **Alexander Somba**: Co-Founder and CTO
+
 <sub>Our source code is private. © UDICON.</sub>
